@@ -1,0 +1,6 @@
+{
+  "file_out": "task2.json",
+  "host": "localhost:9092",
+  "topic": "US-cities-every-minute",
+  "time_duration": 60
+}

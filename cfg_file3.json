@@ -1,0 +1,6 @@
+{
+  "file_out": "task3.json",
+  "host": "localhost:9092",
+  "topic": "Programming-meetups",
+  "time_duration": 60
+}
