@@ -34,6 +34,7 @@ def to_appropriate_format(x):
         "day": current_time.day,
         "month": current_time.month,
         "minute": current_time.minute,
+        "hour": current_time.hour,
         "year": current_time.year
     }
 
