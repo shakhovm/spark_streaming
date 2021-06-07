@@ -46,13 +46,13 @@ def reduce_data(x, y):
 if __name__ == "__main__":
     print(pyspark.__version__)
     producer = KafkaProducer(bootstrap_servers=sys.argv[1],
-                             value_serializer=lambda x: x.encode('UTF-8'))
+                             value_serializer=lambda x: x.encode('UTF-8')) #localhost:9092
 
     sc = SparkContext("local[*]", "MeetsUp")
     sc.setLogLevel("ERROR")
 
     ssc = StreamingContext(sc, 5)
-    kvs = KafkaUtils.createStream(ssc, sys.argv[2], "1", {"meetsup-input": 3})
+    kvs = KafkaUtils.createStream(ssc, sys.argv[2], "1", {"meetsup-input": 3}) # localhost:2181
     us_ss = kvs.map(lambda x: json.loads(x[1])) \
         .filter(lambda x: x['group']['group_country'] == 'us')
 
