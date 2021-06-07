@@ -26,5 +26,3 @@ if __name__ == "__main__":
             break
 
     save_json_to_cloud(cfg['file_out'], lst, cfg["key_json"], cfg["bucket_name"])
-    with open(cfg['file_out'], 'w', encoding='utf-8') as f:
-        json.dump(lst, f)

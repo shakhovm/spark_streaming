@@ -57,7 +57,6 @@ if __name__ == "__main__":
         .filter(lambda x: x['group']['group_country'] == 'us')
 
     us_meetsup = us_ss.map(lambda x: {
-        "mtime": time_to_format(x["mtime"]),
         "event": {
             "event_name": x["event"]["event_name"],
             "event_id": x["event"]["event_id"],
@@ -76,7 +75,6 @@ if __name__ == "__main__":
         .reduce(reduce_data).foreachRDD(lambda x: handler(x, topic_name2, producer))
 
     prog_meetups = us_ss.filter(lambda x: filter_topics).map(lambda x: {
-        "mtime": time_to_format(x["mtime"]),
         "event": {
             "event_name": x["event"]["event_name"],
             "event_id": x["event"]["event_id"],
