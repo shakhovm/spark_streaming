@@ -43,6 +43,7 @@ $ spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.4.8 
 
 \<consumer-host:port\> - хост консюмера, який отримує дані для обробки
 
-# Examples
+# Results
 
-task1.json, task2.json, task3.json - приклади результатів за 10 хв виконання
+* Всі результати за посиланням https://storage.googleapis.com/bigdata_hw4/task1_big.json, https://storage.googleapis.com/bigdata_hw4/task2_big.json, https://storage.googleapis.com/bigdata_hw4/task3_big.json
+* task1.json, task2.json, task3.json - приклади результатів за 10 хв виконання
