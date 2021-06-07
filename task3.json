@@ -1,0 +1,1066 @@
+[
+  {
+    "event": {
+      "event_name": "Feature Store Meetup #7 with Salesforce & Kaskada",
+      "event_id": "278233348",
+      "time": "2021.06.08-20:00:00"
+    },
+    "group_topics": [
+      "Artificial Intelligence",
+      "Computer programming",
+      "Web Development",
+      "Python",
+      "Open Source",
+      "Big Data",
+      "Machine Learning",
+      "NoSQL",
+      "Data Science"
+    ],
+    "group_city": "San Francisco",
+    "group_id": 34250211,
+    "group_name": "Feature Stores  for ML Global Meetup Group",
+    "group_state": "California"
+  },
+  {
+    "event": {
+      "event_name": "Scrum and Wine - June Meetup!",
+      "event_id": "275900830",
+      "time": "2021.06.10-04:00:00"
+    },
+    "group_topics": [
+      "Software Development",
+      "Extreme Programming",
+      "Scrum",
+      "Web Technology",
+      "Web Development",
+      "Agile Project Management",
+      "Test Driven Development",
+      "Kanban",
+      "Lean Startup",
+      "Lean Project Management",
+      "Agile Coaching",
+      "Agile Leadership",
+      "Agile Transformation",
+      "Scaling Agile",
+      "Agile and Scrum"
+    ],
+    "group_city": "Long Beach",
+    "group_id": 30893394,
+    "group_name": "Scrum and Wine",
+    "group_state": "California"
+  },
+  {
+    "event": {
+      "event_name": "Game with Stocks, GameStop, and Social Media ",
+      "event_id": "278679513",
+      "time": "2021.06.09-00:30:00"
+    },
+    "group_topics": [
+      "Deep Learning",
+      "Big Data Analytics",
+      "Applied Statistics",
+      "Data Science",
+      "Business Analytics",
+      "R Project for Statistical Computing",
+      "Data Mining",
+      "Predictive Analytics",
+      "Data Analytics",
+      "Machine Learning",
+      "Business Intelligence Best Practices",
+      "Business Intelligence Strategy",
+      "Business Intelligence",
+      "Data Management",
+      "Natural Language Processing"
+    ],
+    "group_city": "Atlanta",
+    "group_id": 1576088,
+    "group_name": "Data Science & Business Intelligence Society of Atlanta",
+    "group_state": "Georgia"
+  },
+  {
+    "event": {
+      "event_name": "Typing for Fun and Profit",
+      "event_id": "278681498",
+      "time": "2021.06.16-04:00:00"
+    },
+    "group_topics": [
+      "Agile programming",
+      "Python",
+      "Django",
+      "Python Web Development",
+      "Linux",
+      "Open Source Python",
+      "Open Source",
+      "Software Development",
+      "Web Development",
+      "Computer programming",
+      "Programming Languages",
+      "Stackless Python",
+      "Functional Programming in Python",
+      "Learn Python The Hard Way"
+    ],
+    "group_city": "Spokane",
+    "group_id": 16143892,
+    "group_name": "Spokane Python User Group",
+    "group_state": "Washington"
+  },
+  {
+    "event": {
+      "event_name": "Online Meeting - Algebraic in Java: Pattern Matching",
+      "event_id": "278543692",
+      "time": "2021.06.16-01:45:00"
+    },
+    "group_topics": [
+      "Java",
+      "Internet Professionals",
+      "Web Programming",
+      "Technology",
+      "Computer programming",
+      "New Technology",
+      "Open Source",
+      "Web Development"
+    ],
+    "group_city": "Atlanta",
+    "group_id": 4575892,
+    "group_name": "Atlanta Java Users Group",
+    "group_state": "Georgia"
+  },
+  {
+    "event": {
+      "event_name": "Public Key Infrastructure (PKI) for the Cybersecurity Professional",
+      "event_id": "278297883",
+      "time": "2021.06.18-02:00:00"
+    },
+    "group_topics": [
+      "Python",
+      "Kali",
+      "Network Security",
+      "Information Security",
+      "Application Security",
+      "Software Security",
+      "Malware",
+      "Ethical Hacker",
+      "Computer Security",
+      "Penetration Testing",
+      "Computer Forensics",
+      "Cybersecurity",
+      "Web Application Security",
+      "Vulnerability Assessment",
+      "WireShark"
+    ],
+    "group_city": "Herndon",
+    "group_id": 20176851,
+    "group_name": "Cyber Security Workshop",
+    "group_state": "Virginia"
+  },
+  {
+    "event": {
+      "event_name": "Austin Code Mentorship (Virtual)",
+      "event_id": "278644290",
+      "time": "2021.07.03-20:00:00"
+    },
+    "group_topics": [
+      "Mentor",
+      "New Technology",
+      "Learning to Code",
+      "Learn Programming",
+      "Software Development",
+      "Web Technology",
+      "Technology",
+      "Web Development",
+      "Professional Networking",
+      "Programming Languages",
+      "Computer programming",
+      "Mentorship",
+      "Coders",
+      "Coding for Beginners"
+    ],
+    "group_city": "Austin",
+    "group_id": 28440526,
+    "group_name": "Austin Code Mentorship",
+    "group_state": "Texas"
+  },
+  {
+    "event": {
+      "event_name": " Application Insights: The Tool You Never Knew You Needed",
+      "event_id": "277382050",
+      "time": "2021.07.09-01:30:00"
+    },
+    "group_topics": [
+      ".NET",
+      "C#",
+      "Software Development",
+      "SQL Server",
+      "Web Development",
+      "ASP.NET",
+      "ADO.NET Entity Framework",
+      "ALT.NET",
+      "Windows Azure Platform",
+      "ASP.NET MVC",
+      "ASP.NET Web API"
+    ],
+    "group_city": "Minneapolis",
+    "group_id": 11755952,
+    "group_name": "Twin Cities .NET User Group",
+    "group_state": "Minnesota"
+  },
+  {
+    "event": {
+      "event_name": "HDNUG - June: Serverless ASP.NET Core in AWS",
+      "event_id": "278611970",
+      "time": "2021.06.11-02:30:00"
+    },
+    "group_topics": [
+      ".NET",
+      "C#",
+      "Software Development",
+      "Intellectual Discussion",
+      "Engineering",
+      "Computer programming",
+      "Knowledge Sharing",
+      "C#.NET"
+    ],
+    "group_city": "Houston",
+    "group_id": 27707661,
+    "group_name": "Houston .NET User Group",
+    "group_state": "Texas"
+  },
+  {
+    "event": {
+      "event_name": "MergePHP - Using the Agile Methodology to Run My Life",
+      "event_id": "278680868",
+      "time": "2021.06.11-02:00:00"
+    },
+    "group_topics": [
+      "PHP",
+      "Twitter",
+      "Web Design",
+      "Entrepreneurship",
+      "Open Source",
+      "Agile Project Management",
+      "Web Technology",
+      "Web Development",
+      "JQuery",
+      "MySQL",
+      "Internet Startups",
+      "LAMP",
+      "CSS",
+      "Drupal",
+      "Git"
+    ],
+    "group_city": "Boston",
+    "group_id": 120818,
+    "group_name": "Boston PHP",
+    "group_state": "Massachusetts"
+  },
+  {
+    "event": {
+      "event_name": "Virtual Lunch!",
+      "event_id": "rdfvcsyccjbkb",
+      "time": "2021.06.07-20:00:00"
+    },
+    "group_topics": [
+      "Web Development",
+      "Software Development",
+      "WordPress",
+      "Ruby On Rails",
+      "Ruby",
+      "Python",
+      "JavaScript",
+      "Java",
+      "Golang",
+      "PHP",
+      ".NET"
+    ],
+    "group_city": "Memphis",
+    "group_id": 1606258,
+    "group_name": "Memphis Technology User Groups",
+    "group_state": "Tennessee"
+  },
+  {
+    "event": {
+      "event_name": "Online Android Development Demo",
+      "event_id": "bjwlvryccjbnb",
+      "time": "2021.06.11-02:00:00"
+    },
+    "group_topics": [
+      "Software Development",
+      "New Technology",
+      "Mobile Technology",
+      "Android App Marketing",
+      "Android",
+      "Android Development",
+      "Mobile Development",
+      "Computer programming"
+    ],
+    "group_city": "Charleston",
+    "group_id": 32566092,
+    "group_name": "Charleston WV Android Developers Group",
+    "group_state": "West Virginia"
+  },
+  {
+    "event": {
+      "event_name": "StateOfTheArt(): Applied AI Conference",
+      "event_id": "278669268",
+      "time": "2021.06.08-18:30:00"
+    },
+    "group_topics": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Deep Learning",
+      "Blockchain",
+      "Decentralized Systems",
+      "Cryptocurrency",
+      "Big Data",
+      "Data Science",
+      "Cloud Computing",
+      "Scalability",
+      "Microservices",
+      "Computer Vision",
+      "Internet of Things",
+      "Neural Networks",
+      "Natural Language Processing"
+    ],
+    "group_city": "Mountain View",
+    "group_id": 19002699,
+    "group_name": "SF AI/ML/Data Developers Group",
+    "group_state": "California"
+  },
+  {
+    "event": {
+      "event_name": "Machine Learning in Cyber Security",
+      "event_id": "278618132",
+      "time": "2021.06.30-19:00:00"
+    },
+    "group_topics": [
+      "Artificial Intelligence",
+      "Automated Machine Learning",
+      "Machine Learning Interpretability",
+      "Automatic Machine Learning",
+      "Machine Learning & Artificial Intelligence",
+      "Artificial Intelligence Machine Learning Robotics",
+      "Data Science",
+      "Machine Learning",
+      "New Technology",
+      "MLOps"
+    ],
+    "group_city": "San Francisco",
+    "group_id": 33972067,
+    "group_name": "MLOps community",
+    "group_state": "California"
+  },
+  {
+    "event": {
+      "event_name": "[Guest Event] Coding Allies - Data Structures and Algorithms Practice",
+      "event_id": "jjtgksyccjbmb",
+      "time": "2021.06.10-04:00:00"
+    },
+    "group_topics": [
+      "Computer programming",
+      "Professional Women",
+      "Software Development",
+      "Open Source",
+      "Women Programmers",
+      "Women in Technology",
+      "Learning to Code",
+      "Software Engineering",
+      "Volunteering",
+      "Women's Empowerment",
+      "Women Mentoring Women",
+      "Mentorship",
+      "Women in Leadership",
+      "Women Who Code",
+      "Women Coders"
+    ],
+    "group_city": "Seattle",
+    "group_id": 8242402,
+    "group_name": "She's Coding (Seattle)",
+    "group_state": "Washington"
+  },
+  {
+    "event": {
+      "event_name": "Data Extraction Using Camera-Based Methods w/ Dr. Matthew Saponaro",
+      "event_id": "278679515",
+      "time": "2021.06.22-23:00:00"
+    },
+    "group_topics": [
+      "Data Management",
+      "Business Intelligence",
+      "Big Data",
+      "Web Analytics",
+      "Machine Learning",
+      "Text Analytics",
+      "Data Analytics",
+      "Data Visualization",
+      "Predictive Analytics",
+      "Data Mining",
+      "Real Time Analytics",
+      "Data Science",
+      "Marketing Analytics",
+      "Big Data Analytics"
+    ],
+    "group_city": "Wilmington",
+    "group_id": 25449437,
+    "group_name": "The Data Lab",
+    "group_state": "Delaware"
+  },
+  {
+    "event": {
+      "event_name": "Coding Interview - The Whole Plate by Rodrigo Perez Valadez",
+      "event_id": "xzgddsyccjbtb",
+      "time": "2021.06.16-02:45:00"
+    },
+    "group_topics": [
+      "Mobile Development",
+      "Java",
+      "Android Development",
+      "Android",
+      "Kotlin"
+    ],
+    "group_city": "Denver",
+    "group_id": 1714328,
+    "group_name": "Denver Droids (aka Denver Android Developers Group)",
+    "group_state": "Colorado"
+  },
+  {
+    "event": {
+      "event_name": "Security Foundations",
+      "event_id": "278642010",
+      "time": "2021.06.18-00:30:00"
+    },
+    "group_topics": [
+      "Information Technology",
+      "Web Technology",
+      "New Technology",
+      "IT Professionals",
+      "Technology Startups",
+      "Web Development",
+      "Technology",
+      "Software Development",
+      "IT Execs"
+    ],
+    "group_city": "Boston",
+    "group_id": 1367428,
+    "group_name": "The Boston Amazon Web Services Meetup Group",
+    "group_state": "Massachusetts"
+  },
+  {
+    "event": {
+      "event_name": "Journey to the Cloud: IBM Cloud Deployment 4 Ways",
+      "event_id": "278546751",
+      "time": "2021.06.24-00:00:00"
+    },
+    "group_topics": [
+      "Artificial Intelligence",
+      "Open Source",
+      "Innovation",
+      "Software Development",
+      "IBM Cloud",
+      "Business Intelligence",
+      "Cloud Computing",
+      "Big Data",
+      "PaaS (Platform as a Service)",
+      "Middleware",
+      "IBM",
+      "System Integration",
+      "Automation",
+      "Data Science",
+      "Continuous Delivery"
+    ],
+    "group_city": "Detroit",
+    "group_id": 28197995,
+    "group_name": "IBM Cloud - Detroit",
+    "group_state": "Michigan"
+  },
+  {
+    "event": {
+      "event_name": "June Study Hall! (Android, iOS, Front-End, Back-End, Java, JavaScript)",
+      "event_id": "278473619",
+      "time": "2021.07.01-01:00:00"
+    },
+    "group_topics": [
+      "Web Design",
+      "New Technology",
+      "Computer programming",
+      "Mobile Technology",
+      "Android Development",
+      "Mobile Development",
+      "Software Development",
+      "Programming Languages"
+    ],
+    "group_city": "Detroit",
+    "group_id": 33047272,
+    "group_name": "CoLabs - The Detroit Labs Developer Community",
+    "group_state": "Michigan"
+  },
+  {
+    "event": {
+      "event_name": "Exploring Generics & Creating Custom Annotations - By Dr. Venkat Subramaniam",
+      "event_id": "278313729",
+      "time": "2021.06.11-01:00:00"
+    },
+    "group_topics": [
+      "Java",
+      "JavaScript",
+      "Java Certifications",
+      "Java Concurrency",
+      "Java Virtual Machine",
+      "JavaScript Frameworks",
+      "Amazon Web Services",
+      "Java EE",
+      "Java Server Side",
+      "Cloud Native",
+      "Docker Kubernetes",
+      "OpenShift",
+      "DevOps",
+      "Data Science using Python"
+    ],
+    "group_city": "Greensboro",
+    "group_id": 32984846,
+    "group_name": "GSO/Triad Java Users Group ( GSO-JUG )",
+    "group_state": "North Carolina"
+  },
+  {
+    "event": {
+      "event_name": "FX Coffee Meetup",
+      "event_id": "278682269",
+      "time": "2021.06.10-16:30:00"
+    },
+    "group_topics": [
+      "Freelance",
+      "Freelancers in Kansas City",
+      "Solopreneurs",
+      "Small Business Owners",
+      "Self Employed Professionals",
+      "Graphic Design",
+      "Copywriters",
+      "Photographer",
+      "illustrators",
+      "Graphic Design Professionals",
+      "Web Development",
+      "Professional Networking",
+      "Mentoring",
+      "Continuing Education"
+    ],
+    "group_city": "Kansas City",
+    "group_id": 20069433,
+    "group_name": "The Freelance Exchange of KC",
+    "group_state": "Missouri"
+  },
+  {
+    "event": {
+      "event_name": "Getting started with Neo4j Bloom - Part of the NODES 2021 training series",
+      "event_id": "277707422",
+      "time": "2021.06.09-16:00:00"
+    },
+    "group_topics": [
+      "Algorithms",
+      "Open Source",
+      "Software Development",
+      "Big Data",
+      "Hacking",
+      "Data Analytics",
+      "Data Visualization",
+      "Computer programming",
+      "NoSQL",
+      "Data Science",
+      "Neo4j",
+      "Graph Databases",
+      "Neo4j-Social",
+      "Database Development"
+    ],
+    "group_city": "San Francisco",
+    "group_id": 22191580,
+    "group_name": "Neo4j Online Meetup",
+    "group_state": "California"
+  },
+  {
+    "event": {
+      "event_name": "FX Coffee Meetup",
+      "event_id": "278682269",
+      "time": "2021.06.10-16:30:00"
+    },
+    "group_topics": [
+      "Freelance",
+      "Freelancers in Kansas City",
+      "Solopreneurs",
+      "Small Business Owners",
+      "Self Employed Professionals",
+      "Graphic Design",
+      "Copywriters",
+      "Photographer",
+      "illustrators",
+      "Graphic Design Professionals",
+      "Web Development",
+      "Professional Networking",
+      "Mentoring",
+      "Continuing Education"
+    ],
+    "group_city": "Kansas City",
+    "group_id": 20069433,
+    "group_name": "The Freelance Exchange of KC",
+    "group_state": "Missouri"
+  },
+  {
+    "event": {
+      "event_name": "Secure Messaging, File Sharing, and Privacy",
+      "event_id": "278683045",
+      "time": "2021.06.16-19:00:00"
+    },
+    "group_topics": [
+      "Education & Technology",
+      "computer programming c/c++",
+      "Technology Startups",
+      "Computer programming",
+      "Computer Training",
+      "Technology Professionals",
+      "Information Technology",
+      "New Technology",
+      "Computer and Information Network Security",
+      "Technology"
+    ],
+    "group_city": "Denver",
+    "group_id": 34344339,
+    "group_name": "Senior Tech Coffee",
+    "group_state": "Colorado"
+  },
+  {
+    "event": {
+      "event_name": "Journey to the Cloud: IBM Cloud Deployment Workshop",
+      "event_id": "278546779",
+      "time": "2021.07.01-00:00:00"
+    },
+    "group_topics": [
+      "Artificial Intelligence",
+      "Open Source",
+      "Innovation",
+      "Software Development",
+      "IBM Cloud",
+      "Business Intelligence",
+      "Cloud Computing",
+      "Big Data",
+      "PaaS (Platform as a Service)",
+      "Middleware",
+      "IBM",
+      "System Integration",
+      "Automation",
+      "Data Science",
+      "Continuous Delivery"
+    ],
+    "group_city": "Detroit",
+    "group_id": 28197995,
+    "group_name": "IBM Cloud - Detroit",
+    "group_state": "Michigan"
+  },
+  {
+    "event": {
+      "event_name": "Predictive Analytics",
+      "event_id": "sjppksyccjbsb",
+      "time": "2021.06.14-18:00:00"
+    },
+    "group_topics": [
+      "Software Development",
+      "Big Data",
+      "Database Development",
+      "Data Analytics",
+      "Data Science",
+      "Data Analysis and Modeling",
+      "Master Data Management",
+      "Data Quality",
+      "Data Architecture",
+      "Data Warehousing",
+      "Data",
+      "Data Integration",
+      "Data Vault Database Modeling",
+      "Data Modeling",
+      "Data Science & Business Architecture"
+    ],
+    "group_city": "Denver",
+    "group_id": 34586687,
+    "group_name": "Data Modeling Monday",
+    "group_state": "Colorado"
+  },
+  {
+    "event": {
+      "event_name": "Full\u200c \u200cStack\u200c \u200cJava\u200c \u200cIn\u200c \u200c2021\u200c ",
+      "event_id": "278648858",
+      "time": "2021.06.16-04:00:00"
+    },
+    "group_topics": [
+      "Java",
+      "Open Source",
+      "Software Development",
+      "JavaScript",
+      "Web Technology",
+      "Web Development",
+      "Computer programming",
+      "Programming Languages",
+      "Android Development",
+      "Mobile Development",
+      "Java Concurrency",
+      "Java Virtual Machine",
+      "Java Server Side",
+      "Distributed Programming in Java"
+    ],
+    "group_city": "Seattle",
+    "group_id": 15069812,
+    "group_name": "Seattle Java User Group (http://www.seajug.org)",
+    "group_state": "Washington"
+  },
+  {
+    "event": {
+      "event_name": "Why Jupyter Notebooks are Changing Everything ~ Aaron Nelson",
+      "event_id": "277115798",
+      "time": "2021.06.10-01:30:00"
+    },
+    "group_topics": [
+      "Business Intelligence",
+      "Data Mining",
+      "Data Science",
+      "Data Management",
+      "Technology",
+      "Big Data",
+      "Database Professionals",
+      "Database Development",
+      "SQL Server",
+      "Database Design & Development",
+      "SQL",
+      "SQL Server Azure",
+      "Data",
+      "Data Warehousing",
+      "Software Development"
+    ],
+    "group_city": "Burlington",
+    "group_id": 10490352,
+    "group_name": "New England SQL Server User Group",
+    "group_state": "Massachusetts"
+  },
+  {
+    "event": {
+      "event_name": "Bayesian Statistics Makes Total Sense",
+      "event_id": "278668058",
+      "time": "2021.08.20-01:00:00"
+    },
+    "group_topics": [
+      "Intellectual Discussion",
+      "Education & Technology",
+      "Professional Networking",
+      "Professional Development",
+      "Data Visualization",
+      "Data Analytics",
+      "Data Science",
+      "Big Data",
+      "New Technology",
+      "Technology",
+      "Computer programming",
+      "Data Mining",
+      "Software Development",
+      "Predictive Analytics",
+      "Python"
+    ],
+    "group_city": "Philadelphia",
+    "group_id": 5654062,
+    "group_name": "Data Science Philadelphia (DataPhilly)",
+    "group_state": "Pennsylvania"
+  },
+  {
+    "event": {
+      "event_name": "WordPress \"Mega Meetup\": Plugins That Keep Websites Running",
+      "event_id": "278491308",
+      "time": "2021.06.11-01:30:00"
+    },
+    "group_topics": [
+      "Online Marketing",
+      "Web Development",
+      "Web Technology",
+      "Web Design",
+      "Business Strategy",
+      "WordPress",
+      "Blogging",
+      "Internet Professionals",
+      "Writing",
+      "Software Development"
+    ],
+    "group_city": "Miami",
+    "group_id": 1298065,
+    "group_name": "South Florida WordPress Meetup Group",
+    "group_state": "Florida"
+  },
+  {
+    "event": {
+      "event_name": "Bayesian Statistics Makes Total Sense",
+      "event_id": "278668058",
+      "time": "2021.08.20-01:00:00"
+    },
+    "group_topics": [
+      "Intellectual Discussion",
+      "Education & Technology",
+      "Professional Networking",
+      "Professional Development",
+      "Data Visualization",
+      "Data Analytics",
+      "Data Science",
+      "Big Data",
+      "New Technology",
+      "Technology",
+      "Computer programming",
+      "Data Mining",
+      "Software Development",
+      "Predictive Analytics",
+      "Python"
+    ],
+    "group_city": "Philadelphia",
+    "group_id": 5654062,
+    "group_name": "Data Science Philadelphia (DataPhilly)",
+    "group_state": "Pennsylvania"
+  },
+  {
+    "event": {
+      "event_name": "2021 Q2 Meeting",
+      "event_id": "276972509",
+      "time": "2021.06.09-02:00:00"
+    },
+    "group_topics": [
+      "Open Source",
+      "New Technology",
+      "Internet Professionals",
+      "Web Technology",
+      "Web Development",
+      "Computer programming",
+      "Labview",
+      "Software Development"
+    ],
+    "group_city": "Austin",
+    "group_id": 33233965,
+    "group_name": "LabVIEW Architects Forum",
+    "group_state": "Texas"
+  },
+  {
+    "event": {
+      "event_name": "2021 Q2 Meeting",
+      "event_id": "276972509",
+      "time": "2021.06.09-02:00:00"
+    },
+    "group_topics": [
+      "Open Source",
+      "New Technology",
+      "Internet Professionals",
+      "Web Technology",
+      "Web Development",
+      "Computer programming",
+      "Labview",
+      "Software Development"
+    ],
+    "group_city": "Austin",
+    "group_id": 33233965,
+    "group_name": "LabVIEW Architects Forum",
+    "group_state": "Texas"
+  },
+  {
+    "event": {
+      "event_name": "React & REST API: GET & POST to a Web Database!",
+      "event_id": "278319728",
+      "time": "2021.06.25-04:00:00"
+    },
+    "group_topics": [
+      "Computer programming",
+      "Functional Programming",
+      "Professional Networking",
+      "Hacking",
+      "Web Technology",
+      "Social Coding",
+      "Business Strategy",
+      "Mobile Development",
+      "Mobile Technology",
+      "Programming Languages",
+      "Web Development",
+      "Software Development",
+      "New Technology",
+      "Coders",
+      "developer"
+    ],
+    "group_city": "San Francisco",
+    "group_id": 20187687,
+    "group_name": "Bay Area Kintone Developers",
+    "group_state": "California"
+  },
+  {
+    "event": {
+      "event_name": "Leveraging Libraries in React",
+      "event_id": "278330992",
+      "time": "2021.06.11-22:00:00"
+    },
+    "group_topics": [
+      "Ruby",
+      "Education & Technology",
+      "JavaScript",
+      "Internet Professionals",
+      "Web Technology",
+      "Web Development",
+      "Personal Development",
+      "Ruby On Rails",
+      "Beginner Web Developer",
+      "Computer programming",
+      "Women Web Developers"
+    ],
+    "group_city": "San Diego",
+    "group_id": 19215831,
+    "group_name": "LEARN academy",
+    "group_state": "California"
+  },
+  {
+    "event": {
+      "event_name": "Technical Interviewing Practice",
+      "event_id": "hzvrfsyccjbkb",
+      "time": "2021.06.08-05:00:00"
+    },
+    "group_topics": [
+      "Open Source",
+      "Mobile Technology",
+      "Professional Networking",
+      "Career",
+      "Collaboration between Creative Minds",
+      "Collaboration",
+      "Professional Development",
+      "New Career",
+      "Web Design",
+      "Software Development",
+      "New Technology",
+      "Web Technology",
+      "Technology",
+      "Web Development",
+      "Computer programming"
+    ],
+    "group_city": "Seattle",
+    "group_id": 30421424,
+    "group_name": "The Junior Dev Struggle Bus",
+    "group_state": "Washington"
+  },
+  {
+    "event": {
+      "event_name": "[Online] ReactJS Monthly Meetup",
+      "event_id": "lzptzryccjbmb",
+      "time": "2021.06.10-04:30:00"
+    },
+    "group_topics": [
+      "JavaScript",
+      "nodeJS",
+      "Node",
+      "JavaScript Frameworks",
+      "AngularJS",
+      "React",
+      "ReactJS",
+      "React Native",
+      "Vue.js",
+      "Front-end Development",
+      "Computer programming",
+      "Web Development",
+      "Web Technology",
+      "Technology",
+      "Software Development"
+    ],
+    "group_city": "San Diego",
+    "group_id": 2180781,
+    "group_name": "San Diego JavaScript Community",
+    "group_state": "California"
+  },
+  {
+    "event": {
+      "event_name": "Woo Roundtable with Adepeju Oduye, Business Lead, WooCommerce Marketplace",
+      "event_id": "276650328",
+      "time": "2021.06.10-20:00:00"
+    },
+    "group_topics": [
+      "Building an Online Business",
+      "Internet Professionals",
+      "Web Design",
+      "E-Commerce Professionals",
+      "eCommerce Marketing",
+      "Internet E-Commerce Professionals & Startups",
+      "eCommerce Technology",
+      "Web Development",
+      "WordPress",
+      "E-Commerce",
+      "WooCommerce",
+      "Open Source",
+      "SaaS (Software as a Service)"
+    ],
+    "group_city": "Seattle",
+    "group_id": 34571141,
+    "group_name": "WooCommerce Builder Community Events",
+    "group_state": "Washington"
+  },
+  {
+    "event": {
+      "event_name": "Exploring Generics & Creating Custom Annotations - By Dr. Venkat Subramaniam",
+      "event_id": "278313729",
+      "time": "2021.06.11-01:00:00"
+    },
+    "group_topics": [
+      "Java",
+      "JavaScript",
+      "Java Certifications",
+      "Java Concurrency",
+      "Java Virtual Machine",
+      "JavaScript Frameworks",
+      "Amazon Web Services",
+      "Java EE",
+      "Java Server Side",
+      "Cloud Native",
+      "Docker Kubernetes",
+      "OpenShift",
+      "DevOps",
+      "Data Science using Python"
+    ],
+    "group_city": "Greensboro",
+    "group_id": 32984846,
+    "group_name": "GSO/Triad Java Users Group ( GSO-JUG )",
+    "group_state": "North Carolina"
+  },
+  {
+    "event": {
+      "event_name": "An Exploration of Grid Cells in Machine Learning",
+      "event_id": "278434338",
+      "time": "2021.06.07-19:30:00"
+    },
+    "group_topics": [
+      "Artificial Intelligence",
+      "Neuroscience",
+      "Brain Studies",
+      "Machine Learning",
+      "Machine Intelligence",
+      "Artificial General Intelligence",
+      "Deep Learning",
+      "Deep Reinforcement Learning",
+      "Machine Learning & Artificial Intelligence",
+      "Computational Neuroscience"
+    ],
+    "group_city": "Redwood City",
+    "group_id": 32262973,
+    "group_name": "Brains@Bay",
+    "group_state": "California"
+  },
+  {
+    "event": {
+      "event_name": "Thinkful Webinar | UX/UI Design: Designing A UX Case Study",
+      "event_id": "278169717",
+      "time": "2021.06.08-03:00:00"
+    },
+    "group_topics": [
+      "Learning to Code",
+      "learn to code",
+      "Professional Development",
+      "Education & Technology",
+      "Computer programming",
+      "Entrepreneurship",
+      "Web Development",
+      "Learn Programming",
+      "Coding for Beginners",
+      "Software Development"
+    ],
+    "group_city": "Washington",
+    "group_id": 21495764,
+    "group_name": "Thinkful DC | Careers in Tech",
+    "group_state": "District Of Columbia"
+  }
+]
