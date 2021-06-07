@@ -9,6 +9,6 @@ def save_json_to_cloud(filename, dct, key_json, bucket_name):
     bucket = client.get_bucket(bucket_name)
     blob = bucket.blob(filename)
     blob.upload_from_string(
-       data=json.dumps(dct),
+       data=json.dumps(dct, indent=2),
        content_type='application/json'
      )
