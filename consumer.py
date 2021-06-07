@@ -3,6 +3,7 @@ import json
 import sys
 import time
 import ast
+from save_to_bucket import save_json_to_cloud
 
 
 if __name__ == "__main__":
@@ -20,10 +21,10 @@ if __name__ == "__main__":
     start = time.time()
     for msg in consumer:
         print(msg.value)
-        msg.value['cities'] = list(set(msg.value['cities']))
         lst.append(msg.value)
         if (time.time() - start) >= time_duration:
             break
 
+    save_json_to_cloud(cfg['file_out'], lst, cfg["key_json"], cfg["bucket_name"])
     with open(cfg['file_out'], 'w', encoding='utf-8') as f:
         json.dump(lst, f)

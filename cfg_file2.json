@@ -1,6 +1,8 @@
 {
+  "bucket_name": "bigdata_hw4",
   "file_out": "task2.json",
   "host": "localhost:9092",
   "topic": "US-cities-every-minute",
+  "key_json": "bigdatahw2-311414-7155898c1c7a.json",
   "time_duration": 60
 }

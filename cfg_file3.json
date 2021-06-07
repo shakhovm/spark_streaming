@@ -2,5 +2,7 @@
   "file_out": "task3.json",
   "host": "localhost:9092",
   "topic": "Programming-meetups",
-  "time_duration": 60
+  "time_duration": 60,
+  "bucket_name": "bigdata_hw4",
+  "key_json": "bigdatahw2-311414-7155898c1c7a.json"
 }

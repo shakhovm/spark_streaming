@@ -1,12 +1,13 @@
+import pyspark
+from pyspark.streaming import StreamingContext
+from pyspark.streaming.kafka import KafkaUtils
+import sys
 from kafka import KafkaProducer
 from pyspark import SparkContext
 import json
 from datetime import datetime
 from constants import topic_name1, topic_name2, topic_name3
 from constants import prg_topics, states
-
-from pyspark.streaming import StreamingContext
-from pyspark.streaming.kafka import KafkaUtils
 
 
 def time_to_format(t):
@@ -33,7 +34,7 @@ def to_appropriate_format(x):
         "day": current_time.day,
         "month": current_time.month,
         "minute": current_time.minute,
-        "year":  current_time.year
+        "year": current_time.year
     }
 
 
@@ -43,14 +44,15 @@ def reduce_data(x, y):
 
 
 if __name__ == "__main__":
-    producer = KafkaProducer(bootstrap_servers='localhost:9092',
+    print(pyspark.__version__)
+    producer = KafkaProducer(bootstrap_servers=sys.argv[1],
                              value_serializer=lambda x: x.encode('UTF-8'))
 
-    sc = SparkContext("local[*]", "NetworkWordCount")
+    sc = SparkContext("local[*]", "MeetsUp")
     sc.setLogLevel("ERROR")
 
     ssc = StreamingContext(sc, 5)
-    kvs = KafkaUtils.createStream(ssc, "localhost:2181", "1", {"meetsup-input": 1})
+    kvs = KafkaUtils.createStream(ssc, sys.argv[2], "1", {"meetsup-input": 3})
     us_ss = kvs.map(lambda x: json.loads(x[1])) \
         .filter(lambda x: x['group']['group_country'] == 'us')
 
@@ -66,7 +68,7 @@ if __name__ == "__main__":
         "group_id": x["group"]["group_id"],
         "group_name": x["group"]["group_name"],
         "group_state": states[x["group"]["group_state"]],
-    })\
+    }) \
         .foreachRDD(lambda x: handler(x, topic_name1, producer))
 
     us_cities = us_ss.window(60, 60) \

@@ -1,9 +1,10 @@
 from kafka import KafkaProducer
 import requests
+import sys
 
 
 if __name__ == "__main__":
-	producer = KafkaProducer(bootstrap_servers=['localhost:9092'])
+	producer = KafkaProducer(bootstrap_servers=[sys.argv[1]]) #host:9092
 
 	r = requests.get("https://stream.meetup.com/2/rsvps", stream=True)
 
